@@ -1,0 +1,1 @@
+This is a project that I created for my school coding club's Hack-A-Thon in which the theme was tests. This program was built in Java and currently contains some issues with resizing the window and the objects which might be fixed at a later time.
